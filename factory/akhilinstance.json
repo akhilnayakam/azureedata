@@ -1,0 +1,9 @@
+{
+	"name": "akhilinstance",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "03ac0394-bf6e-4603-b7bc-c1e1d08ee7e1",
+		"tenantId": "51e5578c-0650-43d4-a410-5a465427b41b"
+	}
+}
